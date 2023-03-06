@@ -17,11 +17,5 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.20.2"
-  },
-  "name": "js-objects-tasks",
-  "description": "Установка: `npm install`",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  }
 }
